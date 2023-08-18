@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**suyashdhongade/suyashdhongade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi there, I'm Suyash Dhongade 👋
 
 I'm a passionate Frontend Web Developer with a knack for creating user-friendly and visually appealing websites. Welcome to my GitHub repository, where you can explore some of my projects and contributions.
@@ -33,4 +28,3 @@ LinkedIn: [Suyash Dhongade](https://www.linkedin.com/in/suyash-dhongade)
 
 📫 How to Reach Me
 Feel free to reach out to me via email at suyashdhongade257@gmail.com
-
